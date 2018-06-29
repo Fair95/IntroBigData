@@ -5,9 +5,9 @@ Distributed file system as foundation
 
 ### Two key components
 1. NameNode for metadata
-1. *one per cluster*
+- *one per cluster*
 2. DataNode for block storage  
-1. * one per machine*
+- *one per machine*
 
 ## YARN
 Flexible scheduling and resource management
