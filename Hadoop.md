@@ -5,7 +5,7 @@ Distributed file system as foundation
 
 ### Two key components
 1. NameNode for metadata
-- *one per cluster*
+  1. *one per cluster*
 2. DataNode for block storage  
 - *one per machine*
 
